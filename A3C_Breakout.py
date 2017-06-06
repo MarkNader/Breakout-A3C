@@ -1,3 +1,10 @@
+'''
+Author : Mark Nader Morcos 
+Year of Publication : 2017 (Thesis ==> DeepMind-like : Breakout)
+Based on code of "Arthur Juliani" : Simple Reinforcement Learning with Tensorflow Part 8 (A3C)
+Please Cite The author's name and "Arthur Juliani" in any personal or project use
+'''
+
 import multiprocessing
 import os
 import threading
